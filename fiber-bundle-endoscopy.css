@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #FDF5E6; /* Light yellow background color */
+}
+
+.button-container {
+    display: flex;
+    justify-content: center; /* Horizontally center the buttons */
+    align-items: center; /* Vertically center the buttons */
+}
+
+.button-group {
+    display: flex;
+    flex-direction: column; /* Align buttons vertically */
+    margin: 10px;
+    gap: 30px; /* Add space between buttons */
+}
+
+.button-group button {
+    padding: 10px 20px; /* Adjust button padding for better clickability */
+    font-size: 16px; /* Set font size for better readability */
+    border-radius: 8px; /* Rounded corners for aesthetic appeal */
+}
+
+.image-display {
+    width: 700px; /* Adjustable width for image container */
+    height: 500px; /* Adjustable height for image container */
+    border: 1px solid #000; /* Adds a border around the image container */
+    margin: 0 20px;
+    object-fit: contain; /* Ensures the image fits within the container without stretching */
+}
+
+.image-display img {
+    width: 100%; /* Make the image fill the container */
+    height: 100%;
+}
+
+.description {
+    max-width: 50%; /* Limit the width to half of the page width */
+    margin: 0 auto; /* Center the description block */
+    text-align: left; /* Align text to the left */
+    font-weight: bold; /* Bold font for emphasis */
+    margin-bottom: 20px; /* Space after the paragraph for visual separation */
+}
