@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         button3: 'fiber_bundle_endoscopy_lens.png',
         button4: 'https://patentimages.storage.googleapis.com/b6/15/1b/cc31d0e9bb1d3f/HDA0002643634150000021.png',
         button5: 'https://www.spiedigitallibrary.org/ContentImages/Journals/JBOPFO/23/7/076005/FigureImages/JBO_23_7_076005_f008.png',
-        button6: 'v1_Layout.jpg'
+        button6: 'Layout.jpg'
     };
 
     // Reference to the element where images will be displayed.
