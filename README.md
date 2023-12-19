@@ -23,7 +23,7 @@ This website is dedicated to popularizing the concept and applications of fiber 
 
 1. **Visit the Website**: Simply click the link to open the website in any modern browser.
 2. **Explore**: Use the interactive buttons to view images and read about different aspects of fiber bundle endoscopy.
-3. **Learn**: Each image is accompanied by informative text to enhance understanding.
+3. **Learn**: Each image is accompanied by informative title to enhance understanding.
 
 ## References
 
