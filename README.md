@@ -29,10 +29,11 @@ This website is dedicated to popularizing the concept and applications of fiber 
 
 The following references and resources were used in the development of this website (formatted in MLA style):
 
-1. Author's Last Name, First Name. "Title of the Source." *Title of the Container*, Other contributors, Version, Number, Publisher, Publication date, Location.
-2. ...
-
-(Note: Replace the placeholder reference with actual references used in your project.)
+1. Eadie, Matthew, et al. "Fiber Bundle Image Reconstruction Using Convolutional Neural Networks and Bundle Rotation in Endomicroscopy." Sensors 23.5 (2023): 2469.
+2. "Remote Visual Inspection | RVI Resources." Olympus IMS, Olympus Corporation, 2023, https://www.olympus-ims.com/en/learn/remote-visual-inspection/.
+3. Pierce, Mark, Dihua Yu, and Rebecca Richards-Kortum. "High-resolution fiber-optic microendoscopy for in situ cellular imaging." JoVE (Journal of Visualized Experiments) 47 (2011): e2306.
+4. 高久英明. "Optical Fiber Bundle, Endoscope Body for Endoscope, and Endoscope." Patent CN111758062B. Sumita Optical Glass Manufacturing Co Ltd, 31 May 2022, https://patents.google.com/patent/CN111758062B/en?q=(fiber+bundle+endoscope)&oq=fiber+bundle++endoscope.
+5. Krstajić, Nikola, et al. "Low-cost high sensitivity pulsed endomicroscopy to visualize tricolor optical signatures." Journal of biomedical optics 23.7 (2018): 076005-076005.
 
 ## Contributing
 
